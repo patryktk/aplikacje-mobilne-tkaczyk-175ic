@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity_Intention</string>
+    <string name="open_text">Witaj!!</string>
+    <string name="send_button_activ">Pokaż wiadomośc</string>
+    <string name="button_send_message">Wyślij wiadomość</string>
+    <string name="button_home">Powrót</string>
+    <string name="chooser">Wysyłanie wiadomości...</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Widoki</string>
+    <string name="Constrain_Button">Constarint_Layout</string>
+    <string name="Fram_Button">Frame_Layout</string>
+    <string name="TextView_Witaj">Witaj!!</string>
+    <string name="Home_Button">Powrót do menu</string>
+    <string name="Toast_button">Toast</string>
+    <string-array name="spinner">
+        <item>Pierwsza</item>
+        <item>Rzecz</item>
+        <item>To</item>
+        <item>Korona</item>
+        <item>Wirus</item>
+        <item>Spadek</item>
+        <item>Sprzedazy piwa</item>
+    </string-array>
+</resources>

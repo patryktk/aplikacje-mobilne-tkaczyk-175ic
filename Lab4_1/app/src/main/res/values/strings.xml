@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab4_1</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <string-array name="options">
+        <item>Food</item>
+        <item>Info</item>
+    </string-array>
+    <string name="logo">Logo</string>
+    <string name="info">Krótka informacja na temat naszej aplikacji, powstałej na potrzeby zaliczenia</string>
+    <string name="LabelInfo">Informacje</string>
+    <string name="LabelMain">Lab Android</string>
+    <string name="LabelCategory">Wybierz śniadanie</string>
+    <string name="LabelCoffe">Wybrane śniadanie</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite breakfast:</string>
+</resources>

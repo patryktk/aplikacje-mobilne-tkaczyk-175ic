@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+</resources>
